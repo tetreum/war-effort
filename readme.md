@@ -1,4 +1,4 @@
-![Preview](https://github.com/tetreum/war-effort/blob/master/preview/preview.gif?raw=true)
+![Preview](https://github.com/tetreum/war-effort/blob/master/docs/preview.gif?raw=true)
 
 # WarEffort
 
