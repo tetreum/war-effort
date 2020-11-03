@@ -4,6 +4,12 @@
 
 I made this project to understand and build a chain management game (like Factorio).
 
+## Demo
+
+[Click here to check it](https://tetreum.github.io/war-effort/)
+
+## Info
+
 The game is built over a 2D grid (yet it's 3d, so i'm using Vector3) where you can place "Machines".
 Machines can take 1 or more grid slots and there are several types:
 - Belt: Moves items from one slot to another.
